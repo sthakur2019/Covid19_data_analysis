@@ -1,2 +1,2 @@
-# dsc540
-assignment for dsc540
+dsc540
+Covid 19 data analysis using data available through rest API
